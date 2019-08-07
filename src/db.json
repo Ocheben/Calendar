@@ -1,0 +1,22 @@
+{
+  "reminders": [
+    {
+      "id": 1,
+      "title": "Prepare breakfast",
+      "message": "Prepare breakfast",
+      "time": "August 17, 2019 06:24:00"
+    },
+    {
+      "id": 2,
+      "title": "Do Laundry",
+      "message": "Do Laundry",
+      "time": "August 17, 2019 07:24:00"
+    },
+    {
+      "id": 2,
+      "title": "Go to work",
+      "message": "Go to work",
+      "time": "August 17, 2019 08:24:00"
+    }
+  ]
+}
