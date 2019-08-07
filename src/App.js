@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.scss';
+import Calendar from './Components/Calendar';
 
 const App = () => (
   <div className="App">
-    <header className="App-header">Calendar</header>
+    <Calendar />
   </div>
 );
 export default App;
