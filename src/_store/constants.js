@@ -1,0 +1,5 @@
+const REMINDERS = {
+  STORE_REMINDERS: 'STORE_REMINDERS'
+};
+
+export default REMINDERS;

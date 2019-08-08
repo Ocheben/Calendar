@@ -1,11 +1,13 @@
-const initState = {};
+const initState = {
+  reminders: []
+};
 
 const store = (state = initState, action) => {
   switch (action.type) {
-    case 'storeData':
+    case 'STORE_REMINDERS':
       return {
         ...state,
-        reminder: action.payload
+        reminders: action.payload
       };
     default: return state;
   }
