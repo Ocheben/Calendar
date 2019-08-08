@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import Calendar from './Components/Calendar';
+import Calendar from './Components/Calendar/Calendar';
 
 const App = () => (
   <div className="App">
